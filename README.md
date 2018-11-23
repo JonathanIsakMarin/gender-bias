@@ -8,6 +8,6 @@ Why then, are women underrepresented in these fields? I don't think there are an
 
 Research has shown that certain words are more appearant in job postings in male dominated fields and female dominated fields (such as IT). These words are referred to as "masculine words" and "feminine words" and typically describe the qualities needed in candidates. Furthermore, research has shown that women may find jobs less attractive and find themselves less qualified for jobs if masculine words appear (frequently) in job postings. This may explain some of the gender equality in male dominated fields such as IT. If masculine words appear frequently within job postings in such fields it may deter women from applying to jobs.
 
-I decided to examine whether this was the case in the danish job market. I designed an algorithm to scan texts for appearances of masculine and feminine words, how frequently they appear and where in the text they appear. The masculine/feminine list of words are based on research into such words in english and translated into danish.
+I decided to examine whether this was the case in the danish job market. I designed an algorithm to scan texts for appearances of masculine and feminine words, how frequently they appear and where in the text they appear. The masculine/feminine list of words are based on research into such words in english and translated into danish. I applied the algorithm to around 900 job postings I scraped off the internet. 
 
 The results? Well, see for yourself in the notebook.
